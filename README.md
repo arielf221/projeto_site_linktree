@@ -35,6 +35,8 @@ projeto_site_linktree/
 - script.js
 - assets/assets
 
+---
+
 ## 📚 Aprendizados
 
 Durante o desenvolvimento, foram aplicados conceitos como:
@@ -44,15 +46,21 @@ Durante o desenvolvimento, foram aplicados conceitos como:
 - Interatividade com JavaScript
 - Organização de arquivos
 
+---
+
 ## 🌐 Deploy
 
 Você pode acessar o projeto online através do GitHub Pages:
 
 👉 (https://arielf221.github.io/projeto_site_linktree/)
 
+---
+
 ## 📄 Licença
 
 Este projeto está sob a licença MIT.
+
+---
 
 ## 👨‍💻 Autor
 
